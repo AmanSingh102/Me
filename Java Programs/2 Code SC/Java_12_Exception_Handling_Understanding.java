@@ -1,4 +1,4 @@
-public class Java_12_Exception_Hnadling_Understanding 
+public class Java_12_Exception_Handling_Understanding 
 {
     public static void main(String[] args) 
     {
