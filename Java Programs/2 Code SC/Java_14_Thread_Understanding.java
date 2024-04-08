@@ -16,7 +16,7 @@ class Generate2 extends Thread
         int i = 1;
         try
         {
-            if( i == 500 )
+            if( i == 50 )
             {
                 Thread.sleep(1000);
             }
