@@ -9,7 +9,7 @@ public class Java_1_Find_Lowest_And_Greatest_Number_Another_Way
         int[] num = new int[3];
         for( int i=0; i<3; i++)
         {
-            System.out.printf("Enter %d numner : ",i+1);
+            System.out.printf("Enter %d number : ",i+1);
             num[i] = sc.nextInt();
         }
 
