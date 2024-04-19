@@ -18,6 +18,6 @@ public class Circle extends Applet
     public void paint( Graphics graphics )
     {
         graphics.setColor(Color.green);
-        graphics.fillOval(200, 200, 200, 200);
+        graphics.fillOval(100, 50, 100, 100);
     }
 }
