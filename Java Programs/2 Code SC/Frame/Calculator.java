@@ -21,7 +21,6 @@ public class Calculator implements ActionListener
         Calculator calculator = new Calculator();
         frame.setLayout(null);
 
-
         textField1.setBounds(20, 40, 100, 20);
         textField2.setBounds(20, 70, 100, 20);
         textField3.setBounds(20, 100, 100, 20);
