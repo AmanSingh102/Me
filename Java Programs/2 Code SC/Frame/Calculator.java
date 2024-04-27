@@ -19,7 +19,18 @@ public class Calculator implements ActionListener
     public static void main(String[] args) 
     {
         Calculator calculator = new Calculator();
-        frame.setLayout(new FlowLayout());
+        frame.setLayout(null);
+
+
+        textField1.setBounds(20, 40, 100, 20);
+        textField2.setBounds(20, 70, 100, 20);
+        textField3.setBounds(20, 100, 100, 20);
+
+        button1.setBounds(130, 40, 80, 20);
+        button2.setBounds(130, 70, 80, 20);
+        button3.setBounds(130, 100, 80, 20);
+        button4.setBounds(130, 130, 80, 20);
+        button5.setBounds(130, 160, 80, 20);
 
         frame.add(textField1);
         frame.add(textField2);
