@@ -8,7 +8,7 @@ public class Calculator extends Frame implements ActionListener
 
     private Label label1 = new Label("Enter 1st number :");
     private Label label2 = new Label("Enter 2nd number :");
-    private Label label3 = new Label("Result:");
+    private Label label3 = new Label("Result :");
 
     private TextField textField1 = new TextField();
     private TextField textField2 = new TextField();
