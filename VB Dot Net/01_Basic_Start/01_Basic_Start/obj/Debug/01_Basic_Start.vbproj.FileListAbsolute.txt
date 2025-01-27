@@ -1,0 +1,22 @@
+C:\Users\user\Desktop\01_Basic_Start\01_Basic_Start\bin\Debug\01_Basic_Start.exe.config
+C:\Users\user\Desktop\01_Basic_Start\01_Basic_Start\bin\Debug\01_Basic_Start.exe
+C:\Users\user\Desktop\01_Basic_Start\01_Basic_Start\bin\Debug\01_Basic_Start.pdb
+C:\Users\user\Desktop\01_Basic_Start\01_Basic_Start\bin\Debug\01_Basic_Start.xml
+C:\Users\user\Desktop\01_Basic_Start\01_Basic_Start\obj\Debug\01_Basic_Start.vbproj.AssemblyReference.cache
+C:\Users\user\Desktop\01_Basic_Start\01_Basic_Start\obj\Debug\_01_Basic_Start.Resources.resources
+C:\Users\user\Desktop\01_Basic_Start\01_Basic_Start\obj\Debug\01_Basic_Start.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\01_Basic_Start\01_Basic_Start\obj\Debug\01_Basic_Start.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\01_Basic_Start\01_Basic_Start\obj\Debug\01_Basic_Start.exe
+C:\Users\user\Desktop\01_Basic_Start\01_Basic_Start\obj\Debug\01_Basic_Start.xml
+C:\Users\user\Desktop\01_Basic_Start\01_Basic_Start\obj\Debug\01_Basic_Start.pdb
+C:\Users\user\Desktop\VB Dot Net\01_Basic_Start\01_Basic_Start\bin\Debug\01_Basic_Start.exe.config
+C:\Users\user\Desktop\VB Dot Net\01_Basic_Start\01_Basic_Start\bin\Debug\01_Basic_Start.exe
+C:\Users\user\Desktop\VB Dot Net\01_Basic_Start\01_Basic_Start\bin\Debug\01_Basic_Start.pdb
+C:\Users\user\Desktop\VB Dot Net\01_Basic_Start\01_Basic_Start\bin\Debug\01_Basic_Start.xml
+C:\Users\user\Desktop\VB Dot Net\01_Basic_Start\01_Basic_Start\obj\Debug\01_Basic_Start.vbproj.AssemblyReference.cache
+C:\Users\user\Desktop\VB Dot Net\01_Basic_Start\01_Basic_Start\obj\Debug\_01_Basic_Start.Resources.resources
+C:\Users\user\Desktop\VB Dot Net\01_Basic_Start\01_Basic_Start\obj\Debug\01_Basic_Start.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\VB Dot Net\01_Basic_Start\01_Basic_Start\obj\Debug\01_Basic_Start.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VB Dot Net\01_Basic_Start\01_Basic_Start\obj\Debug\01_Basic_Start.exe
+C:\Users\user\Desktop\VB Dot Net\01_Basic_Start\01_Basic_Start\obj\Debug\01_Basic_Start.xml
+C:\Users\user\Desktop\VB Dot Net\01_Basic_Start\01_Basic_Start\obj\Debug\01_Basic_Start.pdb
