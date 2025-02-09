@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\02_DataTypes\02_DataTypes\bin\Debug\02_DataTypes.exe.config
+C:\Users\user\Desktop\02_DataTypes\02_DataTypes\bin\Debug\02_DataTypes.exe
+C:\Users\user\Desktop\02_DataTypes\02_DataTypes\bin\Debug\02_DataTypes.pdb
+C:\Users\user\Desktop\02_DataTypes\02_DataTypes\bin\Debug\02_DataTypes.xml
+C:\Users\user\Desktop\02_DataTypes\02_DataTypes\obj\Debug\02_DataTypes.vbproj.AssemblyReference.cache
+C:\Users\user\Desktop\02_DataTypes\02_DataTypes\obj\Debug\_02_DataTypes.Resources.resources
+C:\Users\user\Desktop\02_DataTypes\02_DataTypes\obj\Debug\02_DataTypes.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\02_DataTypes\02_DataTypes\obj\Debug\02_DataTypes.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\02_DataTypes\02_DataTypes\obj\Debug\02_DataTypes.exe
+C:\Users\user\Desktop\02_DataTypes\02_DataTypes\obj\Debug\02_DataTypes.xml
+C:\Users\user\Desktop\02_DataTypes\02_DataTypes\obj\Debug\02_DataTypes.pdb
