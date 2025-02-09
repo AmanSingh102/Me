@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\VB Dot Net\01_Add_Two_Numbers\01_Add_Two_Numbers\bin\Debug\01_Add_Two_Numbers.exe.config
+C:\Users\user\Desktop\VB Dot Net\01_Add_Two_Numbers\01_Add_Two_Numbers\bin\Debug\01_Add_Two_Numbers.exe
+C:\Users\user\Desktop\VB Dot Net\01_Add_Two_Numbers\01_Add_Two_Numbers\bin\Debug\01_Add_Two_Numbers.pdb
+C:\Users\user\Desktop\VB Dot Net\01_Add_Two_Numbers\01_Add_Two_Numbers\bin\Debug\01_Add_Two_Numbers.xml
+C:\Users\user\Desktop\VB Dot Net\01_Add_Two_Numbers\01_Add_Two_Numbers\obj\Debug\01_Add_Two_Numbers.vbproj.AssemblyReference.cache
+C:\Users\user\Desktop\VB Dot Net\01_Add_Two_Numbers\01_Add_Two_Numbers\obj\Debug\_01_Add_Two_Numbers.Resources.resources
+C:\Users\user\Desktop\VB Dot Net\01_Add_Two_Numbers\01_Add_Two_Numbers\obj\Debug\01_Add_Two_Numbers.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\VB Dot Net\01_Add_Two_Numbers\01_Add_Two_Numbers\obj\Debug\01_Add_Two_Numbers.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VB Dot Net\01_Add_Two_Numbers\01_Add_Two_Numbers\obj\Debug\01_Add_Two_Numbers.exe
+C:\Users\user\Desktop\VB Dot Net\01_Add_Two_Numbers\01_Add_Two_Numbers\obj\Debug\01_Add_Two_Numbers.xml
+C:\Users\user\Desktop\VB Dot Net\01_Add_Two_Numbers\01_Add_Two_Numbers\obj\Debug\01_Add_Two_Numbers.pdb
