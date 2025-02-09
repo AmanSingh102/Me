@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\VB.Net Programs\06_Factorial\06_Factorial\bin\Debug\06_Factorial.exe.config
+C:\Users\user\Desktop\VB.Net Programs\06_Factorial\06_Factorial\bin\Debug\06_Factorial.exe
+C:\Users\user\Desktop\VB.Net Programs\06_Factorial\06_Factorial\bin\Debug\06_Factorial.pdb
+C:\Users\user\Desktop\VB.Net Programs\06_Factorial\06_Factorial\bin\Debug\06_Factorial.xml
+C:\Users\user\Desktop\VB.Net Programs\06_Factorial\06_Factorial\obj\Debug\06_Factorial.vbproj.AssemblyReference.cache
+C:\Users\user\Desktop\VB.Net Programs\06_Factorial\06_Factorial\obj\Debug\_06_Factorial.Resources.resources
+C:\Users\user\Desktop\VB.Net Programs\06_Factorial\06_Factorial\obj\Debug\06_Factorial.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\VB.Net Programs\06_Factorial\06_Factorial\obj\Debug\06_Factorial.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VB.Net Programs\06_Factorial\06_Factorial\obj\Debug\06_Factorial.exe
+C:\Users\user\Desktop\VB.Net Programs\06_Factorial\06_Factorial\obj\Debug\06_Factorial.xml
+C:\Users\user\Desktop\VB.Net Programs\06_Factorial\06_Factorial\obj\Debug\06_Factorial.pdb
