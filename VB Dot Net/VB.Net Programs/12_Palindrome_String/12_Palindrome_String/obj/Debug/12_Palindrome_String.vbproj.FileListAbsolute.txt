@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\VB.Net Programs\12_Palindrome_String\12_Palindrome_String\bin\Debug\12_Palindrome_String.exe.config
+C:\Users\user\Desktop\VB.Net Programs\12_Palindrome_String\12_Palindrome_String\bin\Debug\12_Palindrome_String.exe
+C:\Users\user\Desktop\VB.Net Programs\12_Palindrome_String\12_Palindrome_String\bin\Debug\12_Palindrome_String.pdb
+C:\Users\user\Desktop\VB.Net Programs\12_Palindrome_String\12_Palindrome_String\bin\Debug\12_Palindrome_String.xml
+C:\Users\user\Desktop\VB.Net Programs\12_Palindrome_String\12_Palindrome_String\obj\Debug\12_Palindrome_String.vbproj.AssemblyReference.cache
+C:\Users\user\Desktop\VB.Net Programs\12_Palindrome_String\12_Palindrome_String\obj\Debug\_12_Palindrome_String.Resources.resources
+C:\Users\user\Desktop\VB.Net Programs\12_Palindrome_String\12_Palindrome_String\obj\Debug\12_Palindrome_String.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\VB.Net Programs\12_Palindrome_String\12_Palindrome_String\obj\Debug\12_Palindrome_String.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VB.Net Programs\12_Palindrome_String\12_Palindrome_String\obj\Debug\12_Palindrome_String.exe
+C:\Users\user\Desktop\VB.Net Programs\12_Palindrome_String\12_Palindrome_String\obj\Debug\12_Palindrome_String.xml
+C:\Users\user\Desktop\VB.Net Programs\12_Palindrome_String\12_Palindrome_String\obj\Debug\12_Palindrome_String.pdb

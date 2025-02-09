@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\VB.Net Programs\11_Palindrome_Number\11_Palindrome_Number\bin\Debug\11_Palindrome_Number.exe.config
+C:\Users\user\Desktop\VB.Net Programs\11_Palindrome_Number\11_Palindrome_Number\bin\Debug\11_Palindrome_Number.exe
+C:\Users\user\Desktop\VB.Net Programs\11_Palindrome_Number\11_Palindrome_Number\bin\Debug\11_Palindrome_Number.pdb
+C:\Users\user\Desktop\VB.Net Programs\11_Palindrome_Number\11_Palindrome_Number\bin\Debug\11_Palindrome_Number.xml
+C:\Users\user\Desktop\VB.Net Programs\11_Palindrome_Number\11_Palindrome_Number\obj\Debug\11_Palindrome_Number.vbproj.AssemblyReference.cache
+C:\Users\user\Desktop\VB.Net Programs\11_Palindrome_Number\11_Palindrome_Number\obj\Debug\_11_Palindrome_Number.Resources.resources
+C:\Users\user\Desktop\VB.Net Programs\11_Palindrome_Number\11_Palindrome_Number\obj\Debug\11_Palindrome_Number.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\VB.Net Programs\11_Palindrome_Number\11_Palindrome_Number\obj\Debug\11_Palindrome_Number.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VB.Net Programs\11_Palindrome_Number\11_Palindrome_Number\obj\Debug\11_Palindrome_Number.exe
+C:\Users\user\Desktop\VB.Net Programs\11_Palindrome_Number\11_Palindrome_Number\obj\Debug\11_Palindrome_Number.xml
+C:\Users\user\Desktop\VB.Net Programs\11_Palindrome_Number\11_Palindrome_Number\obj\Debug\11_Palindrome_Number.pdb
