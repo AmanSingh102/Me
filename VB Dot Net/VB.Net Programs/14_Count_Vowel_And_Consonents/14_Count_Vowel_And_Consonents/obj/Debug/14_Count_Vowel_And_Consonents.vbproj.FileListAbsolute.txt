@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\VB.Net Programs\14_Count_Vowel_And_Consonents\14_Count_Vowel_And_Consonents\bin\Debug\14_Count_Vowel_And_Consonents.exe.config
+C:\Users\user\Desktop\VB.Net Programs\14_Count_Vowel_And_Consonents\14_Count_Vowel_And_Consonents\bin\Debug\14_Count_Vowel_And_Consonents.exe
+C:\Users\user\Desktop\VB.Net Programs\14_Count_Vowel_And_Consonents\14_Count_Vowel_And_Consonents\bin\Debug\14_Count_Vowel_And_Consonents.pdb
+C:\Users\user\Desktop\VB.Net Programs\14_Count_Vowel_And_Consonents\14_Count_Vowel_And_Consonents\bin\Debug\14_Count_Vowel_And_Consonents.xml
+C:\Users\user\Desktop\VB.Net Programs\14_Count_Vowel_And_Consonents\14_Count_Vowel_And_Consonents\obj\Debug\14_Count_Vowel_And_Consonents.vbproj.AssemblyReference.cache
+C:\Users\user\Desktop\VB.Net Programs\14_Count_Vowel_And_Consonents\14_Count_Vowel_And_Consonents\obj\Debug\_14_Count_Vowel_And_Consonents.Resources.resources
+C:\Users\user\Desktop\VB.Net Programs\14_Count_Vowel_And_Consonents\14_Count_Vowel_And_Consonents\obj\Debug\14_Count_Vowel_And_Consonents.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\VB.Net Programs\14_Count_Vowel_And_Consonents\14_Count_Vowel_And_Consonents\obj\Debug\14_Count_Vowel_And_Consonents.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VB.Net Programs\14_Count_Vowel_And_Consonents\14_Count_Vowel_And_Consonents\obj\Debug\14_Count_Vowel_And_Consonents.exe
+C:\Users\user\Desktop\VB.Net Programs\14_Count_Vowel_And_Consonents\14_Count_Vowel_And_Consonents\obj\Debug\14_Count_Vowel_And_Consonents.xml
+C:\Users\user\Desktop\VB.Net Programs\14_Count_Vowel_And_Consonents\14_Count_Vowel_And_Consonents\obj\Debug\14_Count_Vowel_And_Consonents.pdb

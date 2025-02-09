@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\VB.Net Programs\13_Triangle_Pattern\13_Triangle_Pattern\bin\Debug\13_Triangle_Pattern.exe.config
+C:\Users\user\Desktop\VB.Net Programs\13_Triangle_Pattern\13_Triangle_Pattern\bin\Debug\13_Triangle_Pattern.exe
+C:\Users\user\Desktop\VB.Net Programs\13_Triangle_Pattern\13_Triangle_Pattern\bin\Debug\13_Triangle_Pattern.pdb
+C:\Users\user\Desktop\VB.Net Programs\13_Triangle_Pattern\13_Triangle_Pattern\bin\Debug\13_Triangle_Pattern.xml
+C:\Users\user\Desktop\VB.Net Programs\13_Triangle_Pattern\13_Triangle_Pattern\obj\Debug\13_Triangle_Pattern.vbproj.AssemblyReference.cache
+C:\Users\user\Desktop\VB.Net Programs\13_Triangle_Pattern\13_Triangle_Pattern\obj\Debug\_13_Triangle_Pattern.Resources.resources
+C:\Users\user\Desktop\VB.Net Programs\13_Triangle_Pattern\13_Triangle_Pattern\obj\Debug\13_Triangle_Pattern.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\VB.Net Programs\13_Triangle_Pattern\13_Triangle_Pattern\obj\Debug\13_Triangle_Pattern.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VB.Net Programs\13_Triangle_Pattern\13_Triangle_Pattern\obj\Debug\13_Triangle_Pattern.exe
+C:\Users\user\Desktop\VB.Net Programs\13_Triangle_Pattern\13_Triangle_Pattern\obj\Debug\13_Triangle_Pattern.xml
+C:\Users\user\Desktop\VB.Net Programs\13_Triangle_Pattern\13_Triangle_Pattern\obj\Debug\13_Triangle_Pattern.pdb
