@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Namespace Example First\Namespace Example First\bin\Debug\Namespace Example First.exe.config
+C:\Users\user\Desktop\Namespace Example First\Namespace Example First\bin\Debug\Namespace Example First.exe
+C:\Users\user\Desktop\Namespace Example First\Namespace Example First\bin\Debug\Namespace Example First.pdb
+C:\Users\user\Desktop\Namespace Example First\Namespace Example First\bin\Debug\Namespace Example First.xml
+C:\Users\user\Desktop\Namespace Example First\Namespace Example First\obj\Debug\Namespace Example First.vbproj.AssemblyReference.cache
+C:\Users\user\Desktop\Namespace Example First\Namespace Example First\obj\Debug\Namespace_Example_First.Resources.resources
+C:\Users\user\Desktop\Namespace Example First\Namespace Example First\obj\Debug\Namespace Example First.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\Namespace Example First\Namespace Example First\obj\Debug\Namespace Example First.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Namespace Example First\Namespace Example First\obj\Debug\Namespace Example First.exe
+C:\Users\user\Desktop\Namespace Example First\Namespace Example First\obj\Debug\Namespace Example First.xml
+C:\Users\user\Desktop\Namespace Example First\Namespace Example First\obj\Debug\Namespace Example First.pdb

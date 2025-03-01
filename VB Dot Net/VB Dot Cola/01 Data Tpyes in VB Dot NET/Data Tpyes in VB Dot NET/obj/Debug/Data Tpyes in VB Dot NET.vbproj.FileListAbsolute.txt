@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Data Tpyes in VB Dot NET\Data Tpyes in VB Dot NET\bin\Debug\Data Tpyes in VB Dot NET.exe.config
+C:\Users\user\Desktop\Data Tpyes in VB Dot NET\Data Tpyes in VB Dot NET\bin\Debug\Data Tpyes in VB Dot NET.exe
+C:\Users\user\Desktop\Data Tpyes in VB Dot NET\Data Tpyes in VB Dot NET\bin\Debug\Data Tpyes in VB Dot NET.pdb
+C:\Users\user\Desktop\Data Tpyes in VB Dot NET\Data Tpyes in VB Dot NET\bin\Debug\Data Tpyes in VB Dot NET.xml
+C:\Users\user\Desktop\Data Tpyes in VB Dot NET\Data Tpyes in VB Dot NET\obj\Debug\Data Tpyes in VB Dot NET.vbproj.AssemblyReference.cache
+C:\Users\user\Desktop\Data Tpyes in VB Dot NET\Data Tpyes in VB Dot NET\obj\Debug\Data_Tpyes_in_VB_Dot_NET.Resources.resources
+C:\Users\user\Desktop\Data Tpyes in VB Dot NET\Data Tpyes in VB Dot NET\obj\Debug\Data Tpyes in VB Dot NET.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\Data Tpyes in VB Dot NET\Data Tpyes in VB Dot NET\obj\Debug\Data Tpyes in VB Dot NET.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Data Tpyes in VB Dot NET\Data Tpyes in VB Dot NET\obj\Debug\Data Tpyes in VB Dot NET.exe
+C:\Users\user\Desktop\Data Tpyes in VB Dot NET\Data Tpyes in VB Dot NET\obj\Debug\Data Tpyes in VB Dot NET.xml
+C:\Users\user\Desktop\Data Tpyes in VB Dot NET\Data Tpyes in VB Dot NET\obj\Debug\Data Tpyes in VB Dot NET.pdb
