@@ -12,7 +12,7 @@ struct node
 typedef struct node Node;
 
 int main() {
-    // Declare pointers for head node and 3 temporary nodes
+    // Declare pointers
     Node *head, *t1, *t2, *t3, *traverse;
 
     // ------------------------
@@ -63,3 +63,4 @@ int main() {
 
     return 0;  // Exit the program
 }
+
