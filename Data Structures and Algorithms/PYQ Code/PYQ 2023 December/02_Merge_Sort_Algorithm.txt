@@ -1,0 +1,26 @@
+Algorithm MergeSort(arr, low, high)
+Step 1: If low < high then
+    a. mid ← (low + high)/2
+    b. Call MergeSort(arr, low, mid)
+    c. Call MergeSort(arr, mid + 1, high)
+    d. Call Merge(arr, low, mid, high)
+End If
+
+Algorithm Merge(arr, low, mid, high)
+Step 1: Create empty array temp[]
+Step 2: Set i = low, j = mid + 1, k = 0
+Step 3: While i ≤ mid and j ≤ high
+    If arr[i] ≤ arr[j]
+        temp[k] ← arr[i], i ← i + 1
+    Else
+        temp[k] ← arr[j], j ← j + 1
+    k ← k + 1
+Step 4: Copy remaining elements of left subarray
+    While i ≤ mid
+        temp[k] ← arr[i], i++, k++
+Step 5: Copy remaining elements of right subarray
+    While j ≤ high
+        temp[k] ← arr[j], j++, k++
+Step 6: Copy temp[] back to arr[low...high]
+    For p = 0 to k - 1
+        arr[low + p] ← temp[p]
