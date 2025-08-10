@@ -1,0 +1,32 @@
+QuickSort(arr, low, high):
+    if low < high:
+        1. Partition the array:
+           - Choose a pivot element (usually the last element)
+           - Rearrange elements such that:
+             → All elements less than pivot are to its left
+             → All elements greater than pivot are to its right
+           - Let the pivot index be `pi`
+
+        2. Recursively apply QuickSort:
+           - QuickSort(arr, low, pi - 1)
+           - QuickSort(arr, pi + 1, high)
+
+
+Partition(arr, low, high):
+    pivot = arr[high]
+    i = low - 1
+
+    for j = low to high - 1:
+        if arr[j] < pivot:
+            i = i + 1
+            swap arr[i] and arr[j]
+
+    swap arr[i + 1] and arr[high]
+    return i + 1
+
+
+
+Given array: [10, 7, 8, 9, 1, 5]
+Pivot = 5 (last element)
+After partition: [1, 5, 8, 9, 10, 7]
+Apply QuickSort on left and right subarrays.
