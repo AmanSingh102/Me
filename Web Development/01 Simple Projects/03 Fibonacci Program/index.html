@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fibonacci Program</title>
+</head>
+
+<body>
+    <h2>Fibonacci Program</h2>
+    Enter Number :
+    <input type="number" id="num">
+    <button onclick="fibonacci()">Print Series</button>
+    <p id="result"></p>
+
+    <script>
+        function fibonacci() 
+        {
+            let n = parseInt(document.getElementById('num').value);
+
+            let n1 = 0;
+            let n2 = 1;
+            let series = "0 1";
+
+            for (let i = 3; i <= n; i++) 
+            {
+                let temp = n1 + n2;
+                series += " " + temp;
+
+                n1 = n2;
+                n2 = temp;
+            }
+
+            document.getElementById('result').innerHTML = "Series : " + series;
+        }
+    </script>
+</body>
+
+</html>

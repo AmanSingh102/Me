@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reverse Program</title>
+    <style>
+        body{
+            background-color: rgb(128, 223, 209);
+        }
+    </style>
+</head>
+<body>
+    <h2>Reverse Program</h2>
+    Enter number : 
+    <input type="number" id="num">
+    <button onclick="Reverse()">Reverse</button>
+    <p id="result"></p>
+
+    <script>
+        function Reverse()
+        {
+            let num = parseInt(document.getElementById('num').value);
+            let original = num;
+            let reverse = 0
+
+            while( num > 0)
+            {
+                let temp = num % 10;
+                reverse = (reverse * 10) + temp;
+                num = Math.floor(num / 10);
+            }
+
+            document.getElementById('result').innerHTML = `Reverse of ${original} is ${reverse}`;
+        }
+    </script>
+</body>
+</html>
