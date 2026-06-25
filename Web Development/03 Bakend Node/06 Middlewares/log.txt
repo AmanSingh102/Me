@@ -1,0 +1,10 @@
+$date: 1782395596489 is a GET request for /
+$date: 1782395597088 is a GET request for /
+$date: 1782395597613 is a GET request for /
+$date: 1782401467485 is a GET request for /
+$date: 1782401467530 is a GET request for /favicon.ico
+$date: 1782401468380 is a GET request for /
+$date: 1782401649997 is a GET request for /about
+$date: 1782401675688 is a GET request for /about
+$date: 1782401686336 is a GET request for /about
+$date: 1782402105073 is a GET request for /about
